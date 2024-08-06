@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["過去の人は 過去に残ってもらおう"];
 
 
 let currentIndex = 0;
