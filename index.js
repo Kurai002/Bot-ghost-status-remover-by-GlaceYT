@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["人の一生は朝霧のように一瞬で、運命は虚無に忘れ去られるように定められている"];
+const statusMessages = ["赤い葉を通り抜ける雨音、傘の上に軽く落ちる雨音を聞くと...私はしばしの平穏を得る。
+"];
 
 
 let currentIndex = 0;
